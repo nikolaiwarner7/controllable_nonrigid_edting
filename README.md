@@ -18,8 +18,9 @@ We also introduce a new dataset of video-derived frame pairs with scene-differen
 
 1. **Clone:**  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USER/affordance-diffusion.git
-   cd affordance-diffusion
+   git clone https://github.com/nikolaiwarner7/controllable_nonrigid_edting.git
+   cd controllable_nonrigid_edting
+
 
 This project builds on and extends:
 
