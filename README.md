@@ -1,4 +1,4 @@
-# AFFORDANCE-DIFFUSION
+# Controllable Nonrigid Editing
 
 > A controllable, identity-preserving diffusion model for non-rigid human edits in the wild.
 
